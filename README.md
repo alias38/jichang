@@ -1,6 +1,6 @@
 # 🚀 低价机场推荐 (Low-Cost Proxy Service)
 
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen)]() 
+[![Status]([https://img.shields.io/badge/Status-Live-brightgreen](https://raw.githubusercontent.com/alias38/jichang/refs/heads/master/IMG_20260314_104125_543.jpg))]() 
 [![Category](https://img.shields.io/badge/Category-高速机场-blue)]()
 [![Type](https://img.shields.io/badge/Type-全中转SS协议-orange)]()
 
