@@ -1,6 +1,6 @@
-# 🚀 低价机场推荐 (Low-Cost Proxy Service)
+# 🚀 低价机场推荐
 
-[![Status]([https://img.shields.io/badge/Status-Live-brightgreen](https://raw.githubusercontent.com/alias38/jichang/refs/heads/master/IMG_20260314_104125_543.jpg))]() 
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen)]() 
 [![Category](https://img.shields.io/badge/Category-高速机场-blue)]()
 [![Type](https://img.shields.io/badge/Type-全中转SS协议-orange)]()
 
@@ -13,7 +13,7 @@
 * **极致性价比：** 搜罗全网优质**廉价机场**，让每一分钱都花在带宽上。
 * **高速稳定：** 优先推荐**全中转 SS 协议**架构，拒绝直连拥堵，晚高峰 4K 秒开。
 * **全能解锁：** 完美支持 Netflix, Disney+, TikTok, ChatGPT (OpenAI), Steam 等流媒体与生产力工具。
-* **真实测速：** 拒绝虚假宣传，定期发布最新测速图，延迟与带宽透明化。
+
 
 ---
 
