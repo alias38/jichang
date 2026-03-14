@@ -1,4 +1,4 @@
-# 🚀 低价机场推荐项目 (Low-Cost Proxy Service)
+# 🚀 低价机场推荐 (Low-Cost Proxy Service)
 
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen)]() 
 [![Category](https://img.shields.io/badge/Category-高速机场-blue)]()
