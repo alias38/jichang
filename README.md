@@ -8,12 +8,19 @@
 
 ---
 
+## 🔗 快速接入
+
+| 推荐入口 | 优惠信息 | 立即前往 |
+| :--- | :--- | :--- |
+| **动力港** | 全中转 SS 协议 / 晚高峰 4K 秒开 | [点击跳转注册](https://site01.dongligang.vip/login?code=oX5C79bg) |
+
+---
+
 ## 🌟 项目亮点
 
 * **极致性价比：** 搜罗全网优质**廉价机场**，让每一分钱都花在带宽上。
 * **高速稳定：** 优先推荐**全中转 SS 协议**架构，拒绝直连拥堵，晚高峰 4K 秒开。
 * **全能解锁：** 完美支持 Netflix, Disney+, TikTok, ChatGPT (OpenAI), Steam 等流媒体与生产力工具。
-
 
 ---
 
@@ -21,12 +28,14 @@
 
 根据最新一轮（2026年）实测数据，我们的推荐列表涵盖以下特性：
 
-### 1. 速度表现 (Speedtest)
+### 1. 速度与延迟实测
+![速度实测图](https://github.com/alias38/jichang/blob/master/IMG_20260314_104125_543.jpg?raw=true)
 * **最高下载速度：** 350Mbps+
 * **平均带宽：** 200Mbps - 300Mbps
 * **连接延迟：** 港台日韩节点 TLS RTT 低至 50ms-120ms。
 
-### 2. 流媒体解锁 (Media Unlock)
+### 2. 流媒体解锁实测
+![流媒体解锁图](https://raw.githubusercontent.com/alias38/jichang/refs/heads/master/IMG_20260314_104125_651.jpg)
 * ✅ **Netflix / Disney+：** 全区解锁（HK/SG/JP/US/TW）
 * ✅ **ChatGPT：** 稳定原生IP，告别 Access Denied
 * ✅ **TikTok / Steam：** 完美支持，区域识别准确
